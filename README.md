@@ -1,7 +1,7 @@
 <p align="center">
   <img src="gear.png" alt="Gear" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images.png" alt="Banner" width="500"/>
+  <img src="images.png" alt="Banner" width="200"/>
 </p>
 
 # 🧠 Machine Learning Projects – University of Tehran
