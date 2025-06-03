@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="/mnt/e/Term 3/Machin-Learning/images.png" alt="University of Tehran Logo" width="200"/>
+  <img src="gear.png" alt="Gear" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/mnt/e/Term 3/Machin-Learning/gear.png" alt="Machine Learning Banner" width="200"/>
+  <img src="images.png" alt="Banner" width="500"/>
 </p>
-
 
 # 🧠 Machine Learning Projects – University of Tehran
 
