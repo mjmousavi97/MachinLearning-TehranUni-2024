@@ -3,7 +3,7 @@ import numpy as np
 from src.predict_by_color_channel import channel_prediction
 
 
-def find_best_threshold(xs, ys, channel, target_class=0, thresh_range=(15, 90)):
+def find_best_threshold(xs, ys, channel, target_class=0, thresh_range=(15, 255)):
     """
     Finds the optimal threshold value for the given color channel that maximizes prediction accuracy 
     using the channel_prediction function. Plots the number of correct predictions vs. threshold.
@@ -46,7 +46,7 @@ def find_best_threshold(xs, ys, channel, target_class=0, thresh_range=(15, 90)):
     plt.grid(True)
     plt.show()
 
-    best_index = np.argmax(correct_counts)
+    best_index = np.argmax(correct_counts) 
     best_thresh = thresholds[best_index]
     best_accuracy = correct_counts[best_index] / len(xs)
 
