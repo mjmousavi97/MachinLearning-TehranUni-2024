@@ -17,6 +17,19 @@ This repository contains a collection of machine learning projects I completed d
 - 🏆 **Final Grade**: 19.75 / 20
 
 ---
+ ## 📚 Projects
+
+This repository is a growing collection of my machine learning projects.  
+So far, I have completed and uploaded the following projects:
+
+| # | Project Title                              | Description                                                                                     | Status       |
+|---|-------------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
+| 1 | Apple vs Banana Image Classification      | Extracted features (mean intensity and channel intensity ratio) from apple and banana images, performed preprocessing, and classified them using simple threshold-based rules (without ML models). | ✅ Completed |
+| 2 | Naive Bayes Classifier (Manual vs. Library) | Implemented Naive Bayes from scratch to separate two classes and compared it with sklearn's implementation. | ✅ Completed |
+
+🚀 More projects will be added soon as I continue exploring new ML techniques and datasets.
+
+---
 
 ## 🚀 Final Project – Speaker Identification and Gender Classification Using Audio Data
 
