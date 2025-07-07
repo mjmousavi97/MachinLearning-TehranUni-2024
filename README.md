@@ -26,6 +26,7 @@ So far, I have completed and uploaded the following projects:
 |---|-------------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
 | 1 | Apple vs Banana Image Classification      | Extracted features (mean intensity and channel intensity ratio) from apple and banana images, performed preprocessing, and classified them using simple threshold-based rules (without ML models). | ✅ Completed |
 | 2 | Naive Bayes Classifier (Manual vs. Library) | Implemented Naive Bayes from scratch to separate two classes and compared it with sklearn's implementation. | ✅ Completed |
+| 3 | Polynomial Regression Cross-Validation Simulation | Simulated data to analyze the impact of polynomial degree (1 to 25) on model performance using 10-fold cross-validation, computed mean & variance of MSE, and visualized bias-variance trade-off. | ✅ Completed |
 
 🚀 More projects will be added soon as I continue exploring new ML techniques and datasets.
 
