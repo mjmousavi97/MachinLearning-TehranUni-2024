@@ -30,6 +30,7 @@ So far, I have completed and uploaded the following projects:
 | 4 | PDF Estimation Using Histogram, Parzen, and KNN | Estimated the probability density function (PDF) of a 1D dataset using three different non-parametric methods: manual Histogram, Parzen window (with Gaussian kernel), and K-Nearest Neighbors. Visualized and compared their behavior for various parameter settings. | ✅ Completed |
 | 5 | KNN Classification on Synthetic Data      | Simulated uniform data for two classes (balanced and imbalanced), evaluated KNN with varying `k` and Euclidean/Cosine distances, analyzed impact of Gaussian noise and class imbalance. | ✅ Completed |
 | 6 | Regression and Classification on Admission Data | Applied Linear Regression (normal equation), Lasso and Ridge regularization, and Logistic Regression (using Newton's method) to predict GRE scores and admission outcomes. Included visualization and evaluation (MSE, accuracy, confusion matrix). | ✅ Completed |
+| 7 | Feature Selection and PCA on TinyMNIST Dataset | Performed PCA from scratch (manual covariance matrix and eigendecomposition), applied Forward and Backward feature selection to reduce dimensionality and improve classification performance on TinyMNIST. | ✅ Completed |
 
 🚀 More projects will be added soon as I continue exploring new ML techniques and datasets.
 
