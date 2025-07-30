@@ -31,6 +31,7 @@ So far, I have completed and uploaded the following projects:
 | 5 | KNN Classification on Synthetic Data      | Simulated uniform data for two classes (balanced and imbalanced), evaluated KNN with varying `k` and Euclidean/Cosine distances, analyzed impact of Gaussian noise and class imbalance. | ✅ Completed |
 | 6 | Regression and Classification on Admission Data | Applied Linear Regression (normal equation), Lasso and Ridge regularization, and Logistic Regression (using Newton's method) to predict GRE scores and admission outcomes. Included visualization and evaluation (MSE, accuracy, confusion matrix). | ✅ Completed |
 | 7 | Feature Selection and PCA on TinyMNIST Dataset | Performed PCA from scratch (manual covariance matrix and eigendecomposition), applied Forward and Backward feature selection to reduce dimensionality and improve classification performance on TinyMNIST. | ✅ Completed |
+| 8 | Hard Margin & Kernelized SVM with CVXPY | Implemented Hard Margin SVM using the primal formulation and Kernelized SVM with RBF kernel using the dual formulation. Used CVXPY for convex optimization, visualized decision boundaries and support vectors, and achieved 100% training accuracy on kernelized model. | ✅ Completed |
 
 🚀 More projects will be added soon as I continue exploring new ML techniques and datasets.
 
