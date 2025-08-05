@@ -32,8 +32,10 @@ So far, I have completed and uploaded the following projects:
 | 6 | Regression and Classification on Admission Data | Applied Linear Regression (normal equation), Lasso and Ridge regularization, and Logistic Regression (using Newton's method) to predict GRE scores and admission outcomes. Included visualization and evaluation (MSE, accuracy, confusion matrix). | ✅ Completed |
 | 7 | Feature Selection and PCA on TinyMNIST Dataset | Performed PCA from scratch (manual covariance matrix and eigendecomposition), applied Forward and Backward feature selection to reduce dimensionality and improve classification performance on TinyMNIST. | ✅ Completed |
 | 8 | Hard Margin & Kernelized SVM with CVXPY | Implemented Hard Margin SVM using the primal formulation and Kernelized SVM with RBF kernel using the dual formulation. Used CVXPY for convex optimization, visualized decision boundaries and support vectors, and achieved 100% training accuracy on kernelized model. | ✅ Completed |
+| 9  | KMeans Clustering with Mahalanobis Silhouette     | Applied KMeans clustering with `k-means++` initialization on a CSV dataset, evaluated cluster validity using Silhouette Score with **Mahalanobis** distance metric, and visualized optimal cluster count. Compared performance across different `k` values to select the best clustering configuration. | ✅ Completed |
 
-🚀 More projects will be added soon as I continue exploring new ML techniques and datasets.
+> 🚀 All exercises for the Machine Learning course have been completed. If time permits, I plan to explore additional exercises using models and techniques not covered in the projects above and will add them to this repository.
+
 
 ---
 
